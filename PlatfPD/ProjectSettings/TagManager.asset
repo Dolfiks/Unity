@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Ground
+  - Enemy
+  - Fruit
+  - Bridge
+  - Box
+  - Box Plus
+  - Bullet
+  - Monster
+  - StopInCastle
+  - Star
+  - Magnet
+  - Buttlets
+  - JetPack
+  - SpeedBoost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Prop
+  - Monster
+  - Player
+  - Monster Turn
+  - Ignore
+  - Magnet
+  - Fruit
+  - Buttlet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2400209541
+    locked: 0
+  - name: ForceGround
+    uniqueID: 932801475
+    locked: 0
+  - name: Collectable
+    uniqueID: 3377468573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Land
+    uniqueID: 2584506371
+    locked: 0
+  - name: Penguin
+    uniqueID: 4149913161
+    locked: 0
+  - name: Monster
+    uniqueID: 2391880893
+    locked: 0
+  - name: Night
+    uniqueID: 319823675
+    locked: 0
